@@ -6,6 +6,7 @@
 
 ![wellennasci GitHub stats](https://github-readme-stats.vercel.app/api?username=wellennasci&show_icons=true&theme=onedark)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellennasci&hide_progress=true)
 
 ### Tecnologias que eu uso no meu dia
 
